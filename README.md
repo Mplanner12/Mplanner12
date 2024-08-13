@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/_mussan_planner" target="blank"><img src="https://img.shields.io/twitter/follow/_mussan_planner?logo=twitter&style=for-the-badge" alt="_mussan_planner" /></a> </p>
 
-- 🔭 I’m currently working on [EDAS APP](edas-app.vercel.app)
+- 🔭 I’m currently working on [J’adoreivc](jadoreivc-frontend.vercel.app/)
 
 - 🌱 I’m currently learning **AI & Machine Learning**
 
-- 👯 I’m looking to collaborate on [PLANNORIUM E-COMMERCE](https://plannorium-ecommerce.vercel.app/)
+- 👯 I’m collaborating on [University X](https://universityx.com.ng/)
 
-- 👨‍💻 All of my projects are available at [https://planners-portfolio.vercel.app/](https://planners-portfolio.vercel.app/)
+- 👨‍💻 Some of my projects are available at [My Portfolio](https://planners-portfolio.vercel.app/)
 
 - 💬 Ask me about **Full stack Development, Data-science**
 
