@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustapha Shuaibu</h1>
-<h3 align="center">Passionate Full stack Developer | Expert in React, Python, and Data Analysis | Driving Innovation for Positive Impact</h3>
+<h3 align="center">Passionate Full stack Developer | Expert in MERN stack, Mobile Dev and Data Analysis | Driving Innovation for Positive Impact</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mplanner12&label=Profile%20views&color=0e75b6&style=flat" alt="mplanner12" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/_mussan_planner" target="blank"><img src="https://img.shields.io/twitter/follow/_mussan_planner?logo=twitter&style=for-the-badge" alt="_mussan_planner" /></a> </p>
 
-- 🔭 I’m currently working on [J’adoreivc](jadoreivc-frontend.vercel.app/)
+- 🔭 I’m currently working on [careerontrack.ai](https://careerontrack.ai/)
 
-- 🌱 I’m currently learning **AI & Machine Learning**
+- 🌱 I’m currently learning **MOBILE DEVELOPMENT**
 
 - 👯 I’m collaborating on [University X](https://universityx.com.ng/)
 
