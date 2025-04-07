@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_mussan_planner" target="blank"><img src="https://img.shields.io/twitter/follow/_mussan_planner?logo=twitter&style=for-the-badge" alt="_mussan_planner" /></a> </p>
 
-- 🔭 I’m currently working on [careerontrack.ai](https://careerontrack.ai/)
+- 🔭 I’m currently working on [Ivory Finance](https://ivory.finance)
 
 - 🌱 I’m currently learning **MOBILE DEVELOPMENT**
 
