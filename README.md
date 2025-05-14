@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/_mussan_planner" target="blank"><img src="https://img.shields.io/twitter/follow/_mussan_planner?logo=twitter&style=for-the-badge" alt="_mussan_planner" /></a> </p>
 
-- 🔭 I’m currently working on [Ivory Finance](https://ivory.finance)
+- 🔭 I’m currently working on [anything that makes a difference](https://github.com/Mplanner12)
 
-- 🌱 I’m currently learning **MOBILE DEVELOPMENT**
-
-- 👯 I’m collaborating on [University X](https://universityx.com.ng/)
+- 🌱 I’m currently learning **MOBILE DEVELOPMENT & WEB SCRAPPING**
 
 - 👨‍💻 Some of my projects are available at [My Portfolio](https://planners-portfolio.vercel.app/)
 
